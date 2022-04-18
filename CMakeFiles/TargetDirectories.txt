@@ -1,0 +1,12 @@
+C:/Users/Dasmit/Desktop/tnm046-labs-master/CMakeFiles/tnm046-labs.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/CMakeFiles/INSTALL.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glfw-3.3.2/CMakeFiles/uninstall.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glfw-3.3.2/CMakeFiles/INSTALL.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glfw-3.3.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glfw-3.3.2/src/CMakeFiles/glfw.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glfw-3.3.2/src/CMakeFiles/INSTALL.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glew/CMakeFiles/GLEW.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glew/CMakeFiles/INSTALL.dir
+C:/Users/Dasmit/Desktop/tnm046-labs-master/glew/CMakeFiles/ALL_BUILD.dir
