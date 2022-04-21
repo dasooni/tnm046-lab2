@@ -493,7 +493,7 @@ int main(int argc, char* argv[]) {
     glUseProgram(myShader.id());  // Activate the shader to set its variables
 	
     if (locationTime == -1) {  // If the variable is not found, -1 is returned
-        std::cout << "Unable to locate variable 'time' in shader!\n"
+        std::cout << "Unable to locate variable 'time' in shader! Or its being used in this file \n"
                   << indexArrayData.size() * sizeof(unsigned int);
     }
 
@@ -526,7 +526,7 @@ int main(int argc, char* argv[]) {
 		composition = mat4mult(R, orbit);
 		composition = mat4mult(composition, T);
 		composition = mat4mult(composition, spin);
-		composition = mat4mult(composition, S);
+		composition = mat4mult(composition, S); // scaling
 		
         glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);  // rendering as lines or filled
 		glUniformMatrix4fv(locationM, 1, GL_FALSE, composition.data()); // Copy the value to the shader program
